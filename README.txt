@@ -1,0 +1,1 @@
+This package was made for using nodejs for controlling the keigan using i2c.

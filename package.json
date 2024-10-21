@@ -1,0 +1,16 @@
+{
+  "name": "nodejsi2c",
+  "version": "0.1.0",
+  "author": "Alexis Meneses",
+  "description": "Nodejs module for linux",
+  "main": "keigani2c/ktest.js",
+  "scripts": {
+    "start": "node keigani2c/ktest.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "node-addon-api": "^4.2.0"
+  }
+}

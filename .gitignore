@@ -1,0 +1,5 @@
+node_modules/
+build/
+robot/configuration.json
+voice/1.lab
+voice/1.wav
